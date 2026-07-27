@@ -3406,40 +3406,40 @@
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-2.0.0.tgz#f544a148d3ab35801c1f633a7441fd87c2e484bf"
   integrity sha512-XCuKFP5PS55gnMVu3dty8KPatLqUoy/ZYzDzAGCQ8JNFCkLXzmI7vNHCR+XpbZaMWQK/vQubr7PkYq8g470J/A==
 
-"@ttsc/darwin-arm64@0.18.0":
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/@ttsc/darwin-arm64/-/darwin-arm64-0.18.0.tgz#e96ae8c73e45b18ed745b3b5d561465a8fe1b0e7"
-  integrity sha512-hE9mPXdIjAIO8YKYLWi1M/P2Wirkymh9gUF9s6HCOWHw2upvk9Y5PAEd1+wkI51p/D+LgpgVnz1j/WRcoXrbNg==
+"@ttsc/darwin-arm64@0.22.0":
+  version "0.22.0"
+  resolved "https://registry.yarnpkg.com/@ttsc/darwin-arm64/-/darwin-arm64-0.22.0.tgz#f52225b62c18ac894ed7bdb64102c5fb59754e62"
+  integrity sha512-UVXV6gerO3r+lK8lJbhOS1HtLKrGRTKTleean1IDKmXC7JqEiKqpbOhhRynb7qbMG2LOl/nqTLQBLjSs4sHl/A==
 
-"@ttsc/darwin-x64@0.18.0":
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/@ttsc/darwin-x64/-/darwin-x64-0.18.0.tgz#cfc8cd6ab26b25bdd34566eea7d923e18ccf98b4"
-  integrity sha512-GH6hYDB4ES3EYxUbVGIXJ6tFRk6xJwDhY4jwF7DnLihLPuJ6RZC8KQUSBuZMU98Vmjk3S7Loyvw/75UYjrsGrQ==
+"@ttsc/darwin-x64@0.22.0":
+  version "0.22.0"
+  resolved "https://registry.yarnpkg.com/@ttsc/darwin-x64/-/darwin-x64-0.22.0.tgz#f9c132bfe20e0a863d00d58bfe0d45f9167a98e2"
+  integrity sha512-OZQCk0wNNmGxX39HPf8Rj9kFqC5Aax/i1SJST1XWGkCQMP6d3A4BGNSJ6TNCBoMT7pU//jCj7xMmV4Av0g4seg==
 
-"@ttsc/linux-arm64@0.18.0":
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/@ttsc/linux-arm64/-/linux-arm64-0.18.0.tgz#d6adc66a229d4ecfb81b3d449a96e12ed5fb2964"
-  integrity sha512-W1qlw51hyE+TfZdVOfxQhjcYw1TsLknibn34ogjapLKqf+c+lfj7XKZcPSf5Jc/ONMMUfGAKrEE4ywr0/iM8HQ==
+"@ttsc/linux-arm64@0.22.0":
+  version "0.22.0"
+  resolved "https://registry.yarnpkg.com/@ttsc/linux-arm64/-/linux-arm64-0.22.0.tgz#230391a00e44bee9603a2b9ae9d153b0a78a5043"
+  integrity sha512-6x5UprHcy29/hC5aTqkJnkBWuXyKCV2X9a4yhhhsM94JXqqKAifWos8HgJ1roUvmGG8zaEHNJrR0LtIvbFwBdA==
 
-"@ttsc/linux-arm@0.18.0":
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/@ttsc/linux-arm/-/linux-arm-0.18.0.tgz#e508319559d74c2763df08f7e7dc23b6fb33834b"
-  integrity sha512-2U6h38t+lHh/n7U8AO7bOJ3cLRZWHN75lGQhTAwYSv7xgL+BTCnVuShzqDxlGXw71rGm0bB99pFpd04eu+7FPQ==
+"@ttsc/linux-arm@0.22.0":
+  version "0.22.0"
+  resolved "https://registry.yarnpkg.com/@ttsc/linux-arm/-/linux-arm-0.22.0.tgz#3b45a6537bb0f18b361cab60404ceba17c817d1f"
+  integrity sha512-wEG7Jq11AhuSLPOv6sE+kexSBlpDCCHoWjO5QgdN3WJ5oqhuBJyYoQoyujxXDxHGCi60a2vFpJiALk3uQU5lTw==
 
-"@ttsc/linux-x64@0.18.0":
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/@ttsc/linux-x64/-/linux-x64-0.18.0.tgz#89fd6f4f9db19aead13d505895af14e15c45f67e"
-  integrity sha512-DDWawo8E8OnbecdUyk9/Rn8jZwYB2h9CInajJQOoJL1P7Ad/ng88OyBQmu2dWW1Q85BITgT/gi/bvcvKEKV9sQ==
+"@ttsc/linux-x64@0.22.0":
+  version "0.22.0"
+  resolved "https://registry.yarnpkg.com/@ttsc/linux-x64/-/linux-x64-0.22.0.tgz#20504b93924504359c12b06532caa122fb277ed2"
+  integrity sha512-u1mC/ch4+Tpvmb2uNfJagHROo/OlpQt6FLXQrY7dPfPhRIgFbpoEy/rW2IgBumYIIwYBAB9hDfgUdO5ue3l9iw==
 
-"@ttsc/win32-arm64@0.18.0":
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/@ttsc/win32-arm64/-/win32-arm64-0.18.0.tgz#208f44434bfeebe87f6a1202c64ba36d8413fc69"
-  integrity sha512-+RyYsBjdmfje+EgLysNJoI8dVSFBKsVKGTLtfSq3hsuxPp/OmpMjUv+8Fey0yZkiEu/v8zMKXoYEb8fim2oOTQ==
+"@ttsc/win32-arm64@0.22.0":
+  version "0.22.0"
+  resolved "https://registry.yarnpkg.com/@ttsc/win32-arm64/-/win32-arm64-0.22.0.tgz#6498f2e909ca98fcf05e74e7318b7f77c3936283"
+  integrity sha512-RyZq5qgjZjm5H14Bw/5tkRqCLwSk4sXnExGjfoPj4hmv8Ia+MxsAJkh0ZQZQNq0JCZkRlxLfOxfFIMbbJJ/swQ==
 
-"@ttsc/win32-x64@0.18.0":
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/@ttsc/win32-x64/-/win32-x64-0.18.0.tgz#09dd4f26567b3cb991ca06e435582a0b369b518a"
-  integrity sha512-9aZSnsfhFQsP8zv/tTPWj64+WrTF1QQvGX0nF1G72/Trt6yEinJ10fINslL87GONTy3k4FgapWYT9nW8chVpXQ==
+"@ttsc/win32-x64@0.22.0":
+  version "0.22.0"
+  resolved "https://registry.yarnpkg.com/@ttsc/win32-x64/-/win32-x64-0.22.0.tgz#7effb7dcd861f566f6f1bcdc7634583fdfb3065a"
+  integrity sha512-l0l8dVSU6aSdBKFqCT3n32Tjx6Q7QmoPP4gD7J3apZ+5pJC4H5gmQs+EJwKd9zjnmx0LPI3TVhXtJ5pcr61mrg==
 
 "@types/aria-query@^5.0.1":
   version "5.0.4"
@@ -9906,18 +9906,18 @@ tsutils@^3.21.0:
   dependencies:
     tslib "^1.8.1"
 
-ttsc@0.18.0:
-  version "0.18.0"
-  resolved "https://registry.yarnpkg.com/ttsc/-/ttsc-0.18.0.tgz#7dc31a6b46513bd3c9af28dc79400abc9b2718a0"
-  integrity sha512-XwEUTWQ9zgpM2m7cdZqCsemR5sIes8vN6NWUElPn+WJPc1BUJ9Gm6gZYN/M+lcanplFNAKBqrb3wqrbTbHx+gg==
+ttsc@0.22.0:
+  version "0.22.0"
+  resolved "https://registry.yarnpkg.com/ttsc/-/ttsc-0.22.0.tgz#f70e133097ee4c76630bfcf459a6a5277bdb3883"
+  integrity sha512-rjxf2KqOE9ajhALXQT5MQmTLuV+yolJby76nLEWSTtXVLgdA0ZXvlmnncHSbK+axhDp0KG9jhle40+n19dlS3Q==
   optionalDependencies:
-    "@ttsc/darwin-arm64" "0.18.0"
-    "@ttsc/darwin-x64" "0.18.0"
-    "@ttsc/linux-arm" "0.18.0"
-    "@ttsc/linux-arm64" "0.18.0"
-    "@ttsc/linux-x64" "0.18.0"
-    "@ttsc/win32-arm64" "0.18.0"
-    "@ttsc/win32-x64" "0.18.0"
+    "@ttsc/darwin-arm64" "0.22.0"
+    "@ttsc/darwin-x64" "0.22.0"
+    "@ttsc/linux-arm" "0.22.0"
+    "@ttsc/linux-arm64" "0.22.0"
+    "@ttsc/linux-x64" "0.22.0"
+    "@ttsc/win32-arm64" "0.22.0"
+    "@ttsc/win32-x64" "0.22.0"
 
 tunnel-rat@0.1.2:
   version "0.1.2"
